@@ -1,4 +1,3 @@
-
 import time,datetime
 def get_week_day(date):
     week_day_dict = {
@@ -14,7 +13,7 @@ def get_week_day(date):
     return week_day_dict[day]
 
 from datetime import datetime
-
+print("version 1.0")
 now = datetime.now()      # 現在時間
 week=get_week_day(now)
 print("現在:",week)

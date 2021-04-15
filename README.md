@@ -1,1 +1,2 @@
 # PythonGetCurrentTimeDateAndWeek
+0415練習
